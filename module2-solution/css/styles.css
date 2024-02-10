@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: blanchedalmond;
+}
+
+section {
+    display: inline-block;
+    margin: 2vw 1vw;
+    height: 20vh;
+    width: 30vw;
+    background-color: aqua;
+    border: solid 5px black;
+}
+
+h1 {
+    border: solid 3px black;
+    text-align: center;
+    margin: 1% 1%;
+    height: 20%;
+    width: 30%;
+    background-color: blue;
+}
+
+p {
+    float: right;
+    padding-right: 5%;
+    background-color: white;
+}
